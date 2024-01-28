@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Amazon International Shopping</name>
+   <tag></tag>
+   <elementGuidId>b578fdc2-c44f-441b-a535-6947b6d4cb7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div/div[2]/div/div/div/h1/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ca098a71-00c6-410e-a703-f072d7d42d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon International Shopping</value>
+      <webElementGuid>2b38b747-5ba8-43b3-b31f-ecef3a07a572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;a-container octopus-page-style&quot;]/div[@class=&quot;a-row apb-browse-two-col-center-pad&quot;]/div[@class=&quot;a-column a-span12 aok-float-right apb-browse-col-pad-left apb-browse-two-col-center-margin-right&quot;]/div[1]/div[@class=&quot;fst-h1-st pageBanner&quot;]/h1[1]/b[1]</value>
+      <webElementGuid>42b5fc75-02f7-4d89-bc43-3d19fea6baec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div[2]/div/div/div/h1/b</value>
+      <webElementGuid>9f889d82-03a8-4534-843b-8b5abaaa5828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>9f5cca72-6765-48f7-b2ca-0cec2132427c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Amazon International Shopping' or . = 'Amazon International Shopping')]</value>
+      <webElementGuid>9fd78873-d1d2-4594-bf4b-5f89f33c795a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

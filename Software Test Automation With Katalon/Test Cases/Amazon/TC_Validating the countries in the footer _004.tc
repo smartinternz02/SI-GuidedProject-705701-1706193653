@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validating the countries in the footer _004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60515e88-5e7c-47f6-ad10-130083f0c1cb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4cbe02b-3347-4407-b850-514ad9e7a9f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'france'</defaultValue>
+      <description></description>
+      <id>b4cbe02b-3347-4407-b850-514ad9e7a9f8</id>
+      <masked>false</masked>
+      <name>label</name>
+   </variable>
+</TestCaseEntity>

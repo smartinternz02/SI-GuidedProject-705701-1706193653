@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Returns   Orders</name>
+   <tag></tag>
+   <elementGuidId>2cda0f8c-633f-4e59-b372-3d8ca6b06b2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-orders']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-orders</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47c0b51a-548f-494e-bdcf-b98515e77682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/css/order-history?ref_=nav_orders_first</value>
+      <webElementGuid>9bee00ba-2e29-4dfb-bb87-39dd7dffb383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-a nav-a-2   nav-progressive-attribute</value>
+      <webElementGuid>84c720f5-eda5-494d-8f37-8418ece5f637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-orders</value>
+      <webElementGuid>b9d64ea0-593f-4cd1-9391-1f32262e4145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>107c1753-64a4-4920-af94-3f5455bb3f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Returns
+  &amp; Orders
+</value>
+      <webElementGuid>6c10fc85-65de-4156-9fad-1d3d1daff7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-orders&quot;)</value>
+      <webElementGuid>5f7b531f-c724-460f-8d5b-d4d7a1ec29df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='nav-orders']</value>
+      <webElementGuid>c49eaeed-9a96-438f-8484-bf39eba91a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-tools']/a[3]</value>
+      <webElementGuid>19121a2f-e19a-401d-94be-739a87f96e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/css/order-history?ref_=nav_orders_first')]</value>
+      <webElementGuid>800a506a-3f4d-46fd-b485-f85924850ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[3]</value>
+      <webElementGuid>b74a172f-08b7-4267-94b0-e9ced12c2106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/css/order-history?ref_=nav_orders_first' and @id = 'nav-orders' and (text() = '
+  Returns
+  &amp; Orders
+' or . = '
+  Returns
+  &amp; Orders
+')]</value>
+      <webElementGuid>53defb05-016a-4079-a983-8c5e80147af9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
